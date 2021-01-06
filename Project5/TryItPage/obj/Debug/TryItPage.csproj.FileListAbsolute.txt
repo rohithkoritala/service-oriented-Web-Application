@@ -1,0 +1,10 @@
+C:\Users\abc\Desktop\Project5\TryItPage\bin\TryItPage.dll.config
+C:\Users\abc\Desktop\Project5\TryItPage\bin\TryItPage.dll
+C:\Users\abc\Desktop\Project5\TryItPage\bin\TryItPage.pdb
+C:\Users\abc\Desktop\Project5\TryItPage\bin\HashRef.dll
+C:\Users\abc\Desktop\Project5\TryItPage\bin\HashRef.pdb
+C:\Users\abc\Desktop\Project5\TryItPage\obj\Debug\TryItPage.csprojAssemblyReference.cache
+C:\Users\abc\Desktop\Project5\TryItPage\obj\Debug\TryItPage.csproj.CoreCompileInputs.cache
+C:\Users\abc\Desktop\Project5\TryItPage\obj\Debug\TryItPage.csproj.CopyComplete
+C:\Users\abc\Desktop\Project5\TryItPage\obj\Debug\TryItPage.dll
+C:\Users\abc\Desktop\Project5\TryItPage\obj\Debug\TryItPage.pdb
